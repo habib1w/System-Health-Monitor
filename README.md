@@ -1,6 +1,6 @@
 #Linux system Health Monitoring tool
 
-£overview
+#Overview
 A Bash script that monitors the health of a Linux system by checking:
 - Disk usage
 - Memory utilisation
